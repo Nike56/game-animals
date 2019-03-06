@@ -1,3 +1,3 @@
 # Animals
 
-![Game Animals](display/display.gif)
+![Game Animals](display/game.gif)
